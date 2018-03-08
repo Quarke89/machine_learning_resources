@@ -1,7 +1,5 @@
 # Machine Learning Resources
 
-## Deep Learning
-
 ### Tutorials
 
 [fast.ai](http://www.fast.ai/)  
@@ -16,12 +14,13 @@
 ### Other
 
 [Andrej Karpahy blog](http://karpathy.github.io/)  
-[MIT 6.S094: Deep Learning for self-dirving cars](https://selfdrivingcars.mit.edu/resources/)
+[MIT 6.S094: Deep Learning for self-dirving cars](https://selfdrivingcars.mit.edu/resources/)  
 [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)  
 [DeepMind](https://deepmind.com/blog/deep-reinforcement-learning/)  
 
 ### Papers
 
+[LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)  
 [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  
 [Visualizing CNNs](https://arxiv.org/pdf/1311.2901v3.pdf)  
 [VGG](http://arxiv.org/pdf/1409.1556v6.pdf)  
