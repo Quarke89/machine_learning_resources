@@ -13,7 +13,7 @@
 
 ### Other
 
-[Andrej Karpahy blog](http://karpathy.github.io/)  
+[Andrej Karpathy blog](http://karpathy.github.io/)  
 [MIT 6.S094: Deep Learning for self-dirving cars](https://selfdrivingcars.mit.edu/resources/)  
 [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)  
 [DeepMind](https://deepmind.com/blog/deep-reinforcement-learning/)  
@@ -25,6 +25,7 @@
 [Visualizing CNNs](https://arxiv.org/pdf/1311.2901v3.pdf)  
 [VGG](http://arxiv.org/pdf/1409.1556v6.pdf)  
 [GoogLeNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)  
+[Network in network](https://arxiv.org/pdf/1312.4400.pdf)  
 [ResNet](https://arxiv.org/pdf/1512.03385v1.pdf)  
 [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf)  
 [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)  
@@ -35,6 +36,15 @@
 [Squeeze and Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)  
 [SegNet](https://arxiv.org/pdf/1511.00561.pdf)  
 [Dilated Convolutions](https://arxiv.org/pdf/1511.07122.pdf)  
+
+[Neural transfer](https://arxiv.org/pdf/1508.06576.pdf)  
+
+[DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)  
+[FaceNet](https://arxiv.org/pdf/1503.03832.pdf)  
+
+[You only look once](https://arxiv.org/pdf/1506.02640.pdf)  
+[YOLO 9000](https://arxiv.org/pdf/1612.08242.pdf)
+
 [FC networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)  
 [DeepLab](https://arxiv.org/pdf/1606.00915.pdf)  
 [Understanding Convolution for Semantic Segmentation](https://arxiv.org/pdf/1702.08502.pdf)  
